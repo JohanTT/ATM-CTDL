@@ -1,0 +1,52 @@
+19001234567891
+5/11/2021 14:58:13
+Chuyen Tien toi Le Anh Tri voi thong diep:   Xin chao
+-50000
+19001234567891
+5/11/2021 14:56:47
+Rut Tien
+-100000
+19001234567891
+5/11/2021 14:55:11
+Nap Tien
++200000
+19001234567891
+5/11/2021 12:11:0
+Chuyen Tien toi Le Anh Tri voi thong diep:     Cho 50k mua keo
+-50000
+19001234567891
+5/11/2021 10:51:14
+Nhan tien duoc gui tu Le Anh Tri voi thong diep:     Tra 50k
++50000
+19001234567891
+5/11/2021 11:53:29
+Nap Tien
++0
+19001234567891
+5/11/2021 11:54:16
+Rut Tien
+-55000
+19001234567891
+5/11/2021 12:18:7
+Nhan tien duoc gui tu Le Anh Tri voi thong diep:    Tra tien thieu no
++200000
+19001234567899
+5/11/2021 14:58:13
+Nhan tien duoc gui tu Cao Viet Thang voi thong diep:   Xin chao
++50000
+19001234567899
+5/11/2021 12:11:0
+Nhan tien duoc gui tu Cao Viet Thang voi thong diep:     Cho 50k mua keo
++50000
+19001234567899
+5/11/2021 10:51:14
+Chuyen Tien toi Cao Viet Thang voi thong diep:     Tra 50k
+-50000
+19001234567899
+5/11/2021 10:47:47
+Rut Tien
+-100000
+19001234567899
+5/11/2021 12:18:7
+Chuyen Tien toi Cao Viet Thang voi thong diep:    Tra tien thieu no
+-200000

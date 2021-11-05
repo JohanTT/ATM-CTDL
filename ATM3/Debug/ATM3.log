@@ -1,0 +1,9 @@
+﻿  ATM3.cpp
+C:\Users\Admin\source\repos\ATM3\ATM3\ATM3.cpp(363,13): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Admin\source\repos\ATM3\ATM3\ATM3.cpp(649,10): warning C4101: 'tmp': unreferenced local variable
+C:\Users\Admin\source\repos\ATM3\ATM3\ATM3.cpp(895,13): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Admin\source\repos\ATM3\ATM3\ATM3.cpp(896,13): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Admin\source\repos\ATM3\ATM3\ATM3.cpp(897,13): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Admin\source\repos\ATM3\ATM3\ATM3.cpp(1006,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\ATM3\ATM3\ATM3.cpp(1009,35): warning C4018: '<': signed/unsigned mismatch
+  ATM3.vcxproj -> C:\Users\Admin\source\repos\ATM3\Debug\ATM3.exe
