@@ -281,7 +281,7 @@ void MaPinSao(string& pin) {
     pin = ""; // reset lại pin mỗi lần nhập sai
     do {
         ast = _getch();
-        if (ast == 13 || ast == ' ') { // checking ascii key 13 pressed or no
+        if (ast == 13 || ast == ' ') { 
             break;
         }
         if (ast == 8 || ast == 127) {
